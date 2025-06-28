@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\",
+  "WorkspaceRootPath": "D:\\Github\\Notes-App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\notesapp\\notesapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\views\\notes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\notesapp\\notesapp\\views\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\views\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\views\\notes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\notesapp\\notesapp\\views\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\views\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\views\\notes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\notesapp\\notesapp\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\views\\notes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\notesapp\\notesapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\notesapp\\notesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\notesapp\\notesapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|c:\\users\\rog strix\\onedrive - mmu\\desktop\\.net projects\\notesapp\\notesapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|d:\\github\\notes-app\\notesapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4AD0A87-828B-4514-A9CA-38B23C155A6B}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,10 +51,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\README.md",
+              "RelativeDocumentMoniker": "NotesApp\\README.md",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\README.md",
+              "RelativeToolTip": "NotesApp\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-28T10:10:46.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Views\\Notes\\Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\Views\\Notes\\Index.cshtml",
               "RelativeDocumentMoniker": "NotesApp\\Views\\Notes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Views\\Notes\\Index.cshtml",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\Views\\Notes\\Index.cshtml",
               "RelativeToolTip": "NotesApp\\Views\\Notes\\Index.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -59,50 +76,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Views\\Notes\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\Views\\Notes\\Delete.cshtml",
               "RelativeDocumentMoniker": "NotesApp\\Views\\Notes\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Views\\Notes\\Delete.cshtml",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\Views\\Notes\\Delete.cshtml",
               "RelativeToolTip": "NotesApp\\Views\\Notes\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T10:02:18.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Views\\Notes\\Edit.cshtml",
-              "RelativeDocumentMoniker": "NotesApp\\Views\\Notes\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Views\\Notes\\Edit.cshtml",
-              "RelativeToolTip": "NotesApp\\Views\\Notes\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T10:02:04.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Views\\Notes\\Details.cshtml",
-              "RelativeDocumentMoniker": "NotesApp\\Views\\Notes\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Views\\Notes\\Details.cshtml",
-              "RelativeToolTip": "NotesApp\\Views\\Notes\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T09:49:54.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T10:02:18.171Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\Views\\Notes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NotesApp\\Views\\Notes\\Edit.cshtml",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\Views\\Notes\\Edit.cshtml",
+              "RelativeToolTip": "NotesApp\\Views\\Notes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:02:04.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\Views\\Notes\\Details.cshtml",
+              "RelativeDocumentMoniker": "NotesApp\\Views\\Notes\\Details.cshtml",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\Views\\Notes\\Details.cshtml",
+              "RelativeToolTip": "NotesApp\\Views\\Notes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T09:49:54.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NotesController.cs",
-              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Controllers\\NotesController.cs",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\Controllers\\NotesController.cs",
               "RelativeDocumentMoniker": "NotesApp\\Controllers\\NotesController.cs",
-              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\Controllers\\NotesController.cs",
               "RelativeToolTip": "NotesApp\\Controllers\\NotesController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,11 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Program.cs",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\Program.cs",
               "RelativeDocumentMoniker": "NotesApp\\Program.cs",
-              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Program.cs",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\Program.cs",
               "RelativeToolTip": "NotesApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "NotesApp\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\Data\\AppDbContext.cs",
               "RelativeToolTip": "NotesApp\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,11 +148,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Models\\Note.cs",
+              "DocumentMoniker": "D:\\Github\\Notes-App\\NotesApp\\Models\\Note.cs",
               "RelativeDocumentMoniker": "NotesApp\\Models\\Note.cs",
-              "ToolTip": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\Models\\Note.cs",
+              "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\Models\\Note.cs",
               "RelativeToolTip": "NotesApp\\Models\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

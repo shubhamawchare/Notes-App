@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L4+p+6rXA5c=",
+  "dgSpecHash": "F0606B3mZwI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\NotesApp.csproj",
+  "projectFilePath": "D:\\Github\\Notes-App\\NotesApp\\NotesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ROG STRIX\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.6\\microsoft.entityframeworkcore.9.0.6.nupkg.sha512",
     "C:\\Users\\ROG STRIX\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.6\\microsoft.entityframeworkcore.abstractions.9.0.6.nupkg.sha512",

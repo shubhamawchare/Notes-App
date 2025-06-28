@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\NotesApp.csproj": {}
+    "D:\\Github\\Notes-App\\NotesApp\\NotesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\NotesApp.csproj": {
+    "D:\\Github\\Notes-App\\NotesApp\\NotesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\NotesApp.csproj",
+        "projectUniqueName": "D:\\Github\\Notes-App\\NotesApp\\NotesApp.csproj",
         "projectName": "NotesApp",
-        "projectPath": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\NotesApp.csproj",
+        "projectPath": "D:\\Github\\Notes-App\\NotesApp\\NotesApp.csproj",
         "packagesPath": "C:\\Users\\ROG STRIX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ROG STRIX\\OneDrive - MMU\\Desktop\\.Net Projects\\NotesApp\\NotesApp\\obj\\",
+        "outputPath": "D:\\Github\\Notes-App\\NotesApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
