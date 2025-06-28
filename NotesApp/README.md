@@ -16,9 +16,6 @@ A simple Notes-taking application built using ASP.NET Core MVC with CRUD (Create
 - Bootstrap 5
 - C#
 
-## 📸 Screenshots
-
-*You can add screenshots of the app UI here later.*
 
 ## 🧾 How to Run
 

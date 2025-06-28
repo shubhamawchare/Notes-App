@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "NotesApp\\README.md",
               "ToolTip": "D:\\Github\\Notes-App\\NotesApp\\README.md",
               "RelativeToolTip": "NotesApp\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-06-28T10:10:46.199Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "NotesApp\\Views\\Notes\\Index.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T10:02:46.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T10:02:46.659Z"
             },
             {
               "$type": "Document",
